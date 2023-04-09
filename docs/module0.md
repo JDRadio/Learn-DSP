@@ -22,6 +22,7 @@ An intuitive approach would want you to understand that when you press the digit
 
 The goal of this guide is not to provide you with the most optimal solution, but rather to allow you to find a solution to any problem.
 
+
 ### Next module
 
 #### [Module 1: Introduction to Digital Signal Processing](module1.md)
